@@ -1,6 +1,9 @@
-[] Set everything back the fuck up
+TODO: Set everything back the fuck up
 [] Configure comment.lua
-[] Install Telescope
+[x] Install Telescope
 [] Configure Telescope
 [] Experiment with Oil, Vinegar, and NeoTree
 [] Install Lualine
+[] Configure remaps and opts
+[] Use Obsidian nvim plugin
+
