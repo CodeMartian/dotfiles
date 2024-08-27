@@ -1,7 +1,10 @@
 return {
     'numToStr/Comment.nvim',
     opts = {
-        -- add any options here
+		toggler = {
+			line = '<C-/>',
+			block = '<C-H-/>'
+		}
     }
 }
 
