@@ -1,1 +1,1 @@
-return { 'rmehri01/onenord.nvim', opts = {} }
+return { "rmehri01/onenord.nvim", opts = {} }

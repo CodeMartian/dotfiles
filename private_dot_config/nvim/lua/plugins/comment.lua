@@ -1,10 +1,9 @@
 return {
-    'numToStr/Comment.nvim',
-    opts = {
+	"numToStr/Comment.nvim",
+	opts = {
 		toggler = {
-			line = '<C-/>',
-			block = '<C-H-/>'
-		}
-    }
+			line = "<C-/>",
+			block = "<C-H-/>",
+		},
+	},
 }
-

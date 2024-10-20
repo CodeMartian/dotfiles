@@ -4,14 +4,14 @@ local api = vim.api
 set.number = true
 set.relativenumber = true
 set.scrolloff = 8
-set.shiftwidth = 4
+set.shiftwidth = 2
 set.smarttab = true
-set.tabstop = 4
-set.softtabstop = 4
+set.tabstop = 2
+set.softtabstop = 2
 set.title = true
-set.cursorlineopt = 'number'
+set.cursorlineopt = "number"
 set.cursorline = true
-set.wrap = false
+set.wrap = true
 set.sidescrolloff = 30
 
 -- Customization
